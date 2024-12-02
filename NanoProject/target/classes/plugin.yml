@@ -1,0 +1,4 @@
+name: NanoProject
+version: '1.0-SNAPSHOT'
+main: org.pspkk.nanoproject.NanoProject
+api-version: '1.21'
