@@ -1,1 +1,4 @@
+org\pspkk\nanoproject\NanoCommand.class
 org\pspkk\nanoproject\NanoProject.class
+org\pspkk\nanoproject\EntityListener.class
+org\pspkk\nanoproject\PlayerListener.class

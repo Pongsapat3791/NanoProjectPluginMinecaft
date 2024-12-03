@@ -2,3 +2,11 @@ name: NanoProject
 version: '${project.version}'
 main: org.pspkk.nanoproject.NanoProject
 api-version: '1.21'
+commands:
+  ZB:
+    description: "baby"
+    usage: "/ZB [W...What]"
+    aliases: [nanoproject]
+    permission: nanoproject.command.ZB
+    permission-message: "You do not have permission"
+
