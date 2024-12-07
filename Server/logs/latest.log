@@ -1,0 +1,94 @@
+[10:39:30] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[10:39:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-81-master@da71382 (2024-12-03T14:58:13Z) for Minecraft 1.21.3
+[10:39:30] [ServerMain/WARN]: [oshi.driver.windows.perfmon.PerfmonDisabled] Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[10:39:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:39:31] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins\nanoproject-1.0-SNAPSHOT.jar'...
+[10:39:32] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins\nanoproject-1.0-SNAPSHOT.jar' in 704ms.
+[10:39:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[10:39:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - NanoProject (1.0-SNAPSHOT)
+[10:39:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:39:39] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[10:39:39] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[10:39:41] [ServerMain/INFO]: No existing world data, creating new world
+[10:39:43] [ServerMain/INFO]: Loaded 1337 recipes
+[10:39:43] [ServerMain/INFO]: Loaded 1448 advancements
+[10:39:44] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[10:39:44] [Server thread/INFO]: Loading properties
+[10:39:44] [Server thread/INFO]: This server is running Paper version 1.21.3-81-master@da71382 (2024-12-03T14:58:13Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[10:39:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:39:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:39:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:39:47] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[10:39:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[10:39:47] [Server thread/INFO]: Default game type: SURVIVAL
+[10:39:47] [Server thread/INFO]: Generating keypair
+[10:39:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:39:47] [Server thread/INFO]: Using default channel type
+[10:39:48] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[10:39:48] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[10:39:48] [Server thread/INFO]: [NanoProject] Loading server plugin NanoProject v1.0-SNAPSHOT
+[10:39:48] [Server thread/INFO]: Preparing level "world"
+[10:39:52] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[10:39:52] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 462.3ms
+[10:39:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:39:56] [Server thread/INFO]: Preparing spawn area: 2%
+[10:39:56] [Server thread/INFO]: Preparing spawn area: 2%
+[10:39:57] [Server thread/INFO]: Preparing spawn area: 2%
+[10:39:57] [Server thread/INFO]: Preparing spawn area: 4%
+[10:39:58] [Server thread/INFO]: Preparing spawn area: 18%
+[10:39:58] [Server thread/INFO]: Preparing spawn area: 18%
+[10:40:00] [Server thread/INFO]: Preparing spawn area: 30%
+[10:40:00] [Server thread/INFO]: Preparing spawn area: 30%
+[10:40:00] [Server thread/INFO]: Preparing spawn area: 30%
+[10:40:00] [Server thread/INFO]: Time elapsed: 4487 ms
+[10:40:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:40:00] [Server thread/INFO]: Preparing spawn area: 2%
+[10:40:01] [Server thread/INFO]: Preparing spawn area: 18%
+[10:40:01] [Server thread/INFO]: Preparing spawn area: 67%
+[10:40:02] [Server thread/INFO]: Time elapsed: 1172 ms
+[10:40:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:40:02] [Server thread/INFO]: Preparing spawn area: 2%
+[10:40:02] [Server thread/INFO]: Time elapsed: 305 ms
+[10:40:02] [Server thread/INFO]: [NanoProject] Enabling NanoProject v1.0-SNAPSHOT
+[10:40:02] [Server thread/INFO]: [NanoProject] @NanoProject has been enabled!
+[10:40:02] [Server thread/INFO]: [spark] Starting background profiler...
+[10:40:02] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[10:40:02] [Server thread/INFO]: Done preparing level "world" (14.441s)
+[10:40:02] [Server thread/INFO]: Running delayed init tasks
+[10:40:02] [Server thread/INFO]: Done (34.556s)! For help, type "help"
+[10:40:02] [Server thread/INFO]: *************************************************************************************
+[10:40:02] [Server thread/INFO]: This is the first time you're starting this server.
+[10:40:02] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[10:40:02] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[10:40:02] [Server thread/INFO]: *************************************************************************************
+[10:40:48] [User Authenticator #0/INFO]: UUID of player _NiJi_NeKo_ is f51ac133-e891-4bd1-be3e-5a15df185b60
+[10:40:49] [Server thread/INFO]: [NanoProject] [STDOUT] this is called first
+[10:40:49] [Server thread/WARN]: Nag author(s): '[]' of 'NanoProject v1.0-SNAPSHOT' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[10:40:49] [Server thread/INFO]: [NanoProject] [STDOUT] this is called late
+[10:40:49] [Server thread/INFO]: _NiJi_NeKo_ joined the game
+[10:40:49] [Server thread/INFO]: _NiJi_NeKo_[/127.0.0.1:58310] logged in with entity id 33 at ([world]6.5, 110.0, 8.5)
+[10:41:07] [Server thread/INFO]: Made _NiJi_NeKo_ a server operator
+[10:41:18] [Server thread/INFO]: _NiJi_NeKo_ issued server command: /gamemode creative
+[10:41:18] [Server thread/INFO]: [_NiJi_NeKo_: Set own game mode to Creative Mode]
+[10:41:51] [Server thread/INFO]: [NanoProject] [STDOUT] Right clicked: class org.bukkit.craftbukkit.entity.CraftZombie
+[10:41:51] [Server thread/INFO]: [NanoProject] [STDOUT] Right clicked: class org.bukkit.craftbukkit.entity.CraftZombie
+[10:41:52] [Server thread/INFO]: [NanoProject] [STDOUT] Right clicked: class org.bukkit.craftbukkit.entity.CraftZombie
+[10:41:52] [Server thread/INFO]: [NanoProject] [STDOUT] Right clicked: class org.bukkit.craftbukkit.entity.CraftZombie
+[10:42:07] [Server thread/INFO]: _NiJi_NeKo_ issued server command: /zb
+[10:42:30] [Server thread/INFO]: [NanoProject] [STDOUT] Right clicked: class org.bukkit.craftbukkit.entity.CraftCow
+[10:42:30] [Server thread/INFO]: Named entity Cow['WOWOWOOO'/419, uuid='e9e9d164-a03f-4b02-b308-66bfc2032e6b', l='ServerLevel[world]', x=16.18, y=113.00, z=-2.75, cpos=[1, -1], tl=472, v=true] died: WOWOWOOO blew up
+[10:42:41] [Server thread/INFO]: _NiJi_NeKo_ issued server command: /zb
+[10:42:45] [Server thread/INFO]: [NanoProject] [STDOUT] Right clicked: class org.bukkit.craftbukkit.entity.CraftCow
+[10:42:45] [Server thread/INFO]: Named entity Cow['WOWOWOOO'/470, uuid='1b9b563a-9561-495c-ae99-da964b42edda', l='ServerLevel[world]', x=10.15, y=110.00, z=-0.51, cpos=[0, -1], tl=82, v=true] died: WOWOWOOO blew up
+[10:42:49] [Server thread/INFO]: _NiJi_NeKo_ lost connection: Disconnected
+[10:42:49] [Server thread/INFO]: _NiJi_NeKo_ left the game
+[10:42:50] [Server thread/INFO]: Stopping server
+[10:42:50] [Server thread/INFO]: [NanoProject] Disabling NanoProject v1.0-SNAPSHOT
+[10:42:50] [Server thread/INFO]: [NanoProject] @NanoProject has been disabled!
+[10:42:50] [Server thread/INFO]: Saving players
+[10:42:50] [Server thread/INFO]: Saving worlds
+[10:42:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:42:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:42:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:42:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
